@@ -6,4 +6,4 @@ You can search movie in this web app.
 
 I use:
 
-*[Bootstrap](https://getbootstrap.com/)
+[Bootstrap](https://getbootstrap.com/)
